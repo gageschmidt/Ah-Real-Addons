@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 # This class will be used to handle any of the various checks needed for currently installed addons
-class CheckAddons:
+class Installed:
 
     @staticmethod
     # static method to check for the standard addons folder for World Of Warcraft
